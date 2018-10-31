@@ -1,0 +1,1 @@
+update USERS SET name='Bishnu',email='bishnu.oca22@gmail.com' WHERE id=1;
